@@ -1,0 +1,1037 @@
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 14:12:07.612503700
+New connection: /192.168.0.102 : 50382
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 14:12:34.438000400
+New connection: /192.168.0.102 : 50539
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 14:25:40.028472900
+New connection: /192.168.0.102 : 54857
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 14:25:52.543309
+New connection: /192.168.0.102 : 54940
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 14:37:17.553575700
+New connection: /192.168.0.102 : 58552
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 14:37:34.030926700
+New connection: /192.168.0.102 : 58646
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 14:43:50.280864200
+New connection: /192.168.0.102 : 60530
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 14:43:57.661108700
+New connection: /192.168.0.102 : 60577
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 15:00:03.114560700
+New connection: /192.168.0.102 : 65010
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 15:00:08.806127200
+New connection: /192.168.0.102 : 65026
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 15:02:01.153090
+New connection: /192.168.0.102 : 49199
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 15:02:07.990007100
+New connection: /192.168.0.102 : 49218
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 20:37:03.199134500
+New connection: /192.168.0.102 : 50975
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:37:08.899815700
+New connection: /192.168.0.102 : 51029
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:37:09.053404300
+New connection: /192.168.0.102 : 51030
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:37:42.198891
+New connection: /192.168.0.102 : 51338
+-------------------------------------------------
+Message received: sellActive/a@gmail.com/SPDR S&P 500/1
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:37:50.813882
+New connection: /192.168.0.102 : 51386
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:37:50.982103200
+New connection: /192.168.0.102 : 51388
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:38:03.494978500
+New connection: /192.168.0.102 : 51509
+-------------------------------------------------
+Message received: viewCash/a@gmail.com
+Server output: 450
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:38:38.822225400
+New connection: /192.168.0.102 : 51814
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:38:38.989003200
+New connection: /192.168.0.102 : 51815
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 20:41:53.433707500
+New connection: /192.168.0.102 : 53395
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:41:56.974895500
+New connection: /192.168.0.102 : 53409
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:41:57.132748
+New connection: /192.168.0.102 : 53413
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 20:42:45.406945300
+New connection: /192.168.0.102 : 53745
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 22:13:04.043666600
+New connection: /192.168.0.102 : 56275
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:15:02.907270300
+New connection: /192.168.0.102 : 56941
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:18:07.860571600
+New connection: /192.168.0.102 : 57487
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:21:48.345700
+New connection: /192.168.0.102 : 59333
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 22:28:12.759241100
+New connection: /192.168.0.102 : 62153
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:16.802278400
+New connection: /192.168.0.102 : 62158
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:16.969292300
+New connection: /192.168.0.102 : 62159
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:24.170649800
+New connection: /192.168.0.102 : 62209
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:24.320115700
+New connection: /192.168.0.102 : 62210
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:27.307745200
+New connection: /192.168.0.102 : 62239
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:27.471772600
+New connection: /192.168.0.102 : 62240
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:27.825310500
+New connection: /192.168.0.102 : 62262
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:27.993086100
+New connection: /192.168.0.102 : 62263
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:31.417007100
+New connection: /192.168.0.102 : 62305
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:28:31.594921900
+New connection: /192.168.0.102 : 62310
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 22:30:40.850506700
+New connection: /192.168.0.102 : 63182
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:30:44.058883100
+New connection: /192.168.0.102 : 63208
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:30:44.224439700
+New connection: /192.168.0.102 : 63209
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-07, Time: 22:41:27.729847
+New connection: /192.168.0.102 : 51034
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:41:30.280994600
+New connection: /192.168.0.102 : 51046
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:41:30.424191700
+New connection: /192.168.0.102 : 51047
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:42:01.914422400
+New connection: /192.168.0.102 : 51284
+-------------------------------------------------
+Message received: openActive/Amazon
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:42:01.949481500
+New connection: /192.168.0.102 : 51285
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:42:10.348186100
+New connection: /192.168.0.102 : 51328
+-------------------------------------------------
+Message received: closeActive/Amazon
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:42:10.367130500
+New connection: /192.168.0.102 : 51329
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:43:53.449060400
+New connection: /192.168.0.102 : 51885
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:43:59.297638700
+New connection: /192.168.0.102 : 51940
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:44:07.793891100
+New connection: /192.168.0.102 : 51992
+-------------------------------------------------
+Message received: openActive/Amazon
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:44:07.803865800
+New connection: /192.168.0.102 : 51993
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:44:19.709632200
+New connection: /192.168.0.102 : 52028
+-------------------------------------------------
+Message received: closeActive/SPDR S&P 500
+Server output: success
+-------------------------------------------------
+Date: 2021-12-07, Time: 22:44:19.714617600
+New connection: /192.168.0.102 : 52029
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 11:20:56.916213
+New connection: /192.168.43.88 : 61742
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:21:06.706997200
+New connection: /192.168.43.88 : 61769
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:21:06.883875700
+New connection: /192.168.43.88 : 61770
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:21:24.263165900
+New connection: /192.168.43.88 : 61785
+-------------------------------------------------
+Message received: addCostActive/Apple/560
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:21:24.307059900
+New connection: /192.168.43.88 : 61786
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:21:28.536123700
+New connection: /192.168.43.88 : 61791
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:21:28.719182900
+New connection: /192.168.43.88 : 61792
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:21:36.829111400
+New connection: /192.168.43.88 : 61797
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:21:37.011623600
+New connection: /192.168.43.88 : 61798
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 11:34:24.257801200
+New connection: /192.168.43.88 : 62583
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:34:31.374821200
+New connection: /192.168.43.88 : 62590
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:34:31.562587200
+New connection: /192.168.43.88 : 62591
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:34:50.482041200
+New connection: /192.168.43.88 : 62613
+-------------------------------------------------
+Message received: addCostActive/SPDR S&P 500/330
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:34:50.498001800
+New connection: /192.168.43.88 : 62614
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 11:43:12.521728100
+New connection: /192.168.43.88 : 63070
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:43:20.092591700
+New connection: /192.168.43.88 : 63076
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:43:20.274034500
+New connection: /192.168.43.88 : 63077
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:43:39.759585500
+New connection: /192.168.43.88 : 63100
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:43:39.941191400
+New connection: /192.168.43.88 : 63101
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:43:47.529810600
+New connection: /192.168.43.88 : 63106
+-------------------------------------------------
+Message received: viewCash/a@gmail.com
+Server output: 450
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:43:50.629012900
+New connection: /192.168.43.88 : 63107
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:43:50.812513200
+New connection: /192.168.43.88 : 63108
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:43:57.697559800
+New connection: /192.168.43.88 : 63113
+-------------------------------------------------
+Message received: buyActive/a@gmail.com/Amazon/1
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:44:05.115700400
+New connection: /192.168.43.88 : 63118
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:44:05.305813500
+New connection: /192.168.43.88 : 63119
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:44:27.794429200
+New connection: /192.168.43.88 : 63137
+-------------------------------------------------
+Message received: viewCash/a@gmail.com
+Server output: 6
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:44:36.049762900
+New connection: /192.168.43.88 : 63138
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:44:36.232205800
+New connection: /192.168.43.88 : 63139
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:45:14.717303
+New connection: /192.168.43.88 : 63193
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:45:15.010511300
+New connection: /192.168.43.88 : 63194
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:45:32.159949500
+New connection: /192.168.43.88 : 63202
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:45:36.765023700
+New connection: /192.168.43.88 : 63205
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:45:36.948047600
+New connection: /192.168.43.88 : 63207
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:45:55.132804100
+New connection: /192.168.43.88 : 63218
+-------------------------------------------------
+Message received: addCostActive/Amazon/440
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:45:55.146656500
+New connection: /192.168.43.88 : 63219
+-------------------------------------------------
+Message received: viewActiveAdmin
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:46:12.804503500
+New connection: /192.168.43.88 : 63230
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:46:16.784040500
+New connection: /192.168.43.88 : 63235
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 11:46:16.974564100
+New connection: /192.168.43.88 : 63238
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 12:41:57.853458100
+New connection: /192.168.43.88 : 50913
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 12:42:04.079348700
+New connection: /192.168.43.88 : 50914
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 12:42:04.258107300
+New connection: /192.168.43.88 : 50915
+-------------------------------------------------
+Message received: viewActiveUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 12:42:11.007620
+New connection: /192.168.43.88 : 50916
+-------------------------------------------------
+Message received: viewCash/a@gmail.com
+Server output: 6
+-------------------------------------------------
+Date: 2021-12-08, Time: 12:42:16.036480900
+New connection: /192.168.43.88 : 50917
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 12:43:17.064188300
+New connection: /192.168.43.88 : 50931
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 12:43:31.077359800
+New connection: /192.168.43.88 : 50933
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 13:04:23.675316600
+New connection: /192.168.43.88 : 51028
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 13:04:28.264581100
+New connection: /192.168.43.88 : 51029
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 13:04:57.554173200
+New connection: /192.168.43.88 : 51049
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 13:05:01.661233300
+New connection: /192.168.43.88 : 51050
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 13:16:23.606175800
+New connection: /192.168.43.88 : 51115
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 13:16:28.245223900
+New connection: /192.168.43.88 : 51116
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 13:40:53.052795700
+New connection: /192.168.43.88 : 51257
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 13:41:04.917092800
+New connection: /192.168.43.88 : 51258
+-------------------------------------------------
+Message received: viewPortfolioUser
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 14:01:54.143399300
+New connection: /192.168.43.88 : 51784
+-------------------------------------------------
+Message received: ent/1/a@gmail.com/111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 14:01:58.360470500
+New connection: /192.168.43.88 : 51785
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 14:01:58.549360
+New connection: /192.168.43.88 : 51786
+-------------------------------------------------
+Message received: viewPortfolioUser
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 17:46:49.947235200
+New connection: /192.168.0.102 : 64067
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 17:46:55.220407500
+New connection: /192.168.0.102 : 64068
+-------------------------------------------------
+Message received: viewOperations
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 17:46:55.370966100
+New connection: /192.168.0.102 : 64069
+-------------------------------------------------
+Message received: viewOperations
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 17:47:02.251744300
+New connection: /192.168.0.102 : 64070
+-------------------------------------------------
+Message received: viewOperations
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 17:47:02.427142600
+New connection: /192.168.0.102 : 64071
+-------------------------------------------------
+Message received: viewOperations
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 17:48:48.309678800
+New connection: /192.168.0.102 : 64094
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 17:48:52.035824100
+New connection: /192.168.0.102 : 64095
+-------------------------------------------------
+Message received: viewOperations
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 17:48:52.186550200
+New connection: /192.168.0.102 : 64096
+-------------------------------------------------
+Message received: viewOperations
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 18:10:29.206068100
+New connection: /192.168.0.102 : 64292
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:10:33.540121100
+New connection: /192.168.0.102 : 64295
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:10:33.697684700
+New connection: /192.168.0.102 : 64296
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+-------------------------------------------------
+Driver name: MySQL Connector/J
+Driver version: mysql-connector-java-8.0.27 (Revision: e920b979015ae7117d60d72bcc8f077a839cd791)
+Product name: MySQL
+Product version: 8.0.27
+-------------------------------------------------
+TCP Server starting at 0.0.0.0/0.0.0.0:2525
+Date: 2021-12-08, Time: 18:13:44.556223300
+New connection: /192.168.0.102 : 64317
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:13:47.506837800
+New connection: /192.168.0.102 : 64318
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:13:47.673404200
+New connection: /192.168.0.102 : 64319
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:13:51.633889100
+New connection: /192.168.0.102 : 64320
+-------------------------------------------------
+Message received: viewOperations/1
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:13:51.643865600
+New connection: /192.168.0.102 : 64321
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:13:56.434815100
+New connection: /192.168.0.102 : 64322
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:13:56.594076200
+New connection: /192.168.0.102 : 64323
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:14:07.038280100
+New connection: /192.168.0.102 : 64324
+-------------------------------------------------
+Message received: viewOperations/2
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:14:07.042331
+New connection: /192.168.0.102 : 64325
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:14:10.903954900
+New connection: /192.168.0.102 : 64326
+-------------------------------------------------
+Message received: viewOperations/3
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:14:10.914968400
+New connection: /192.168.0.102 : 64327
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:14:18.679000900
+New connection: /192.168.0.102 : 64328
+-------------------------------------------------
+Message received: viewOperations/4
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:14:18.681993200
+New connection: /192.168.0.102 : 64329
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:16:24.902039300
+New connection: /192.168.0.102 : 64344
+-------------------------------------------------
+Message received: ent/2/admin/1111
+Server output: success
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:16:27.651140800
+New connection: /192.168.0.102 : 64345
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:16:27.801760
+New connection: /192.168.0.102 : 64346
+-------------------------------------------------
+Message received: viewOperations/0
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:16:30.473658500
+New connection: /192.168.0.102 : 64347
+-------------------------------------------------
+Message received: viewOperations/1
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:16:34.698381300
+New connection: /192.168.0.102 : 64350
+-------------------------------------------------
+Message received: viewOperations/2
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:16:36.745777500
+New connection: /192.168.0.102 : 64351
+-------------------------------------------------
+Message received: viewOperations/3
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:16:40.565048
+New connection: /192.168.0.102 : 64352
+-------------------------------------------------
+Message received: viewOperations/4
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:16:44.421064300
+New connection: /192.168.0.102 : 64353
+-------------------------------------------------
+Message received: viewOperations/6
+Server output: @ArrayList<Object>
+-------------------------------------------------
+Date: 2021-12-08, Time: 18:16:57.754590800
+New connection: /192.168.0.102 : 64354
+-------------------------------------------------
+Message received: viewOperations/6
+Server output: @ArrayList<Object>
+-------------------------------------------------
