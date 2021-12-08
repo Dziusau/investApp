@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.myapp.Controllers.IntroController">
+  <children>
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+         <children>
+            <Button fx:id="User" layoutX="246.0" layoutY="130.0" mnemonicParsing="false" onAction="#onUserButtonClick" prefHeight="30.0" prefWidth="150.0" text="Войти как пользователь" />
+            <Button fx:id="Admin" alignment="CENTER" layoutX="246.0" layoutY="185.0" mnemonicParsing="false" onAction="#onAdminButtonClick" prefHeight="30.0" prefWidth="150.0" text="Войти как админ" />
+            <Button fx:id="Registration" alignment="CENTER" layoutX="246.0" layoutY="240.0" mnemonicParsing="false" onAction="#onRegisterButtonClick" prefHeight="30.0" prefWidth="150.0" text="Регистрация" />
+         </children>
+    </AnchorPane>
+  </children>
+</VBox>

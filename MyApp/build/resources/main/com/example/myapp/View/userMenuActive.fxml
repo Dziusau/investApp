@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.myapp.Controllers.UserMenuActiveController">
+  <children>
+    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+         <children>
+            <Button alignment="CENTER" layoutX="40.0" layoutY="50.0" mnemonicParsing="false" onAction="#onFillBalanceButtonClick" prefHeight="30.0" prefWidth="160.0" text="Пополнить баланс" />
+            <Button alignment="CENTER" layoutX="40.0" layoutY="100.0" mnemonicParsing="false" onAction="#onRemainsButtonClick" prefHeight="30.0" prefWidth="160.0" text="Остаток на счете" />
+            <Button alignment="CENTER" layoutX="40.0" layoutY="150.0" mnemonicParsing="false" onAction="#onViewActivesButtonClick" prefHeight="30.0" prefWidth="160.0" text="Активы брокера" />
+            <GridPane layoutX="235.0" layoutY="100.0" prefHeight="30.0" prefWidth="220.0">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="40.0" prefWidth="100.0" />
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="60.0" prefWidth="100.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Label alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="73.0" text="Баланс:" GridPane.halignment="CENTER" GridPane.hgrow="ALWAYS" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS" />
+                  <TextField fx:id="balanceField" alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" promptText="0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.hgrow="ALWAYS" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS" />
+               </children>
+            </GridPane>
+            <GridPane layoutX="235.0" layoutY="50.0" prefHeight="30.0" prefWidth="220.0">
+               <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="40.0" prefWidth="100.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+               </rowConstraints>
+               <children>
+                  <Label alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" text="Введите сумму:" GridPane.halignment="CENTER" GridPane.hgrow="ALWAYS" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS" />
+                  <TextField fx:id="moneyField" alignment="CENTER" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefWidth="118.0" promptText="0" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.hgrow="ALWAYS" GridPane.valignment="CENTER" GridPane.vgrow="ALWAYS" />
+               </children>
+            </GridPane>
+            <Button alignment="CENTER" layoutX="489.0" layoutY="53.0" mnemonicParsing="false" onAction="#onFillMoneyButtonClick" prefHeight="25.0" prefWidth="100.0" text="Пополнить" />
+            <Button alignment="CENTER" layoutX="40.0" layoutY="300.0" mnemonicParsing="false" onAction="#onExitButtonClick" prefHeight="30.0" prefWidth="160.0" text="назад" />
+            <Label fx:id="errorLabel" alignment="CENTER" layoutY="350.0" maxWidth="1.7976931348623157E308" prefHeight="20.0" prefWidth="640.0" textAlignment="CENTER" />
+         </children>
+    </AnchorPane>
+  </children>
+</VBox>
